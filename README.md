@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AabrooFatima
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning how to ignore stupid people
-- 💞️ I’m looking to collaborate on how to be patient 
+- 👀 I’m interested in
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me
 
 <!---
